@@ -65,44 +65,6 @@ python trading_bot.py
 ---
 
 
-# .gitignore
-
-### Byte-compiled / cache files
-__pycache__/
-*.py[cod]
-*.so
-*.egg
-*.egg-info/
-
-### Logs and database
-*.log
-*.csv
-*.sqlite
-
-### Environments
-.env
-.venv/
-env/
-venv/
-ENV/
-
-### Jupyter/Colab/Notebook junk
-.ipynb_checkpoints/
-
-### System files
-.DS_Store
-Thumbs.db
-
-### Token files or credentials (manually added if needed)
-secrets.json
-*.pem
-
-### Ignore saved figures
-*.png
-*.jpg
-*.jpeg
-
-
 ## LICENSE (MIT License)
 
 This project is licensed under the [MIT License](LICENSE).
